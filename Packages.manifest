@@ -1,0 +1,14 @@
+Package: CGConnect
+Version: 1.0-1
+Depends: libc
+Source: /home/osboxes/buildbot/mypackages/examples/CGConnect
+SourceName: CGConnect
+License: ISC
+Section: examples
+Maintainer: Matthew Buffa
+Architecture: mips_24kc
+Installed-Size: 176296
+Filename: CGConnect_1.0-1_mips_24kc.ipk
+Size: 177004
+SHA256sum: 147cc466938fedfa029d56ccb19f49998cccbf364b2d134d19ec0b514be65402
+Description:  Modem Manager for Cloud Groud Control
